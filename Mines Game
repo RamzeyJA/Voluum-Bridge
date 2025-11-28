@@ -17,7 +17,7 @@
     'https://connect.facebook.net/en_US/fbevents.js');
 
     // Dein Pixel
-    fbq('init', '857046106719987');   // Deine Pixel-ID
+    fbq('init', '857046106719987');   // Pixel-ID
     fbq('track', 'PageView');         // Standard PageView Event
     fbq('trackCustom', 'VoluumBridgeHit'); // Optionales Custom Event
   </script>
